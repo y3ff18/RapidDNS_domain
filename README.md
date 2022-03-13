@@ -1,11 +1,13 @@
-﻿ <p align="center">
+﻿<h1 align="center">RapidDNS_domain</h1>
+ 
+ <p align="center">
  <img src="https://img.shields.io/badge/tools-subdomain-green" alt="typing-svg">
  <img src="https://img.shields.io/badge/language-python3-green" alt="typing-svg">
  <img src="https://img.shields.io/badge/author-y3ff18-green" alt="typing-svg">
 
 
  </p>
- # RapidDNS_domain
+
  通过调用RapidDNS的数据来获取子域名  
  使用方式:  
  python3 RapidDNS_domain.py [-u url] [-f file] [-t thread]
